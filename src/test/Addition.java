@@ -3,10 +3,10 @@ package test;
 public class Addition {
 
 	public static void main(String[] args) {
-		int a = 10;
-		int b = 20;
-		int d = 30;
-		int e = 50;
+		int a = 100;
+		int b = 200;
+		int d = 300;
+		int e = 500;
 		int c = a+b+d+e;
 		System.out.println(c);
 	}
